@@ -4,7 +4,16 @@ www.linkedin.com/in/mpalmero
 
 **Summary**
 
-Principal Architect in the CTO team, part of the Customer Experience Organization at Cisco, EMEA, with 26 years of experience since joining in August 1998. Expertise in Network Management, Service Provider networks, and automation technologies. Current focus on customer projects optimizing energy consumption and standardizing data ingestion across Cisco platforms. Special interest in Telemetry, and Standardization, with strong focus on energy optimization and sustainability during the last couple of years. Active in innovation, IETF standardization, IEEE publications, and STEM education promotion. TSIA Innovation on Customer Success Award winner in 2021.
+Experienced Principal Architect in Cisco's CTO team, part of the Customer Experience (CX) Organization in EMEA, with over 26 years at the company since joining in August 1998. I bring deep technical expertise in Network Management, Service Provider networks, and automation technologies, with a strong recent focus on energy optimization, telemetry, and data standardization across Cisco platforms.
+
+I began my Cisco career in the TAC in Brussels, specializing in network instrumentation and programmability—core areas that have consistently guided my professional journey. As a member of the TAC Escalation team, I built foundational expertise that shaped my later work in automation, collaborating with customers across both Enterprise and Service Provider environments. My experience includes extensive support for third-party network management tools and Cisco solutions such as WAN Automation Engine (WAE), Network Services Orchestrator (NSO), and Cisco Network Registrar (CNR).
+
+Beyond my core CX responsibilities, I have actively engaged in cross-functional initiatives with Cisco's Business Units, completing long-term rotations with the Validation Solutions (SVS) team and the WAE engineering group, now part of the MIG BU. I regularly present at Cisco Live and currently serve as Session Group Manager (SGM) for the EMEA event, leading tracks in Operations & Automation and Sustainability.
+
+My recent work has focused on innovation and standardization, including leading patent efforts, contributing to IETF working groups (IVY and GREEN), and publishing with the IEEE. I was honored to lead the team that received the 2021 TSIA Innovation in Customer Success Award, and I currently serve on Cisco’s Patent Sustainability Committee.
+
+Driven by a passion for engineering excellence and sustainability, I am eager to continue making an impact in roles that bridge technology and strategy—ideally as a Technical Marketing Engineer or Team Lead, where I can align cross-BU efforts and elevate Cisco’s leadership in network automation, manageability, and energy-efficient innovation.
+
 
 **Top Skills**
 
@@ -99,7 +108,143 @@ Principal Architect in the CTO team, part of the Customer Experience Organizatio
 *   Certified SAFe® 4 Agilist
 *   Infovista Certified Developer
 *   Cisco Certified Internetwork Expert (CCIE)
+*   CCIE Lifetime Emiratus
 *   ISSIP Knowledge Sharing
+
+**Standards and Publications**
+Driving Data Normalization and Standardization efforts internally and externally to Cisco. Active participation in IETF, contributing to drafts and workshops related to Sustainability, Energy Efficiency Metrics and LifeCycle Management:
+ https://datatracker.ietf.org/person/mpalmero@cisco.com
+Within the OPS Area at IETF, active contribute under two working groups:
+
+•	Proponent for GREEN(Getting Ready for Energy Efficiency Networks) WG. The list of drafts where Marisol is author:
+draft-petra-path-energy-api-02
+draft-petra-green-api
+draft-belmq-green-framework
+draft-stephan-green-use-cases
+draft-bclp-green-terminology
+draft-pslm-poweff
+
+
+•	IVY(Inventory) WG, which it was created in base to the ALMO (Asset Lifecycle Management Operations) draft: 
+draft-palmero-ivy-ps-almo
+draft-mcd-ivy-entitlement-inventory (active draft)
+
+Marisol is also an active participants at IRTF:
+Sustainability and the Internet Proposed Research Group:
+https://datatracker.ietf.org/group/sustain/about/
+
+And Environmental Impacts of Internet Technology (eimpact) which is part of IAB:
+https://datatracker.ietf.org/group/eimpact/about/
+Draft:
+draft-various-eimpact-arch-considerations-00
+
+
+IEEE papers:
+Leveraging Experience Telemetry: Architecture and Data Models
+https://ieeexplore.ieee.org/document/9758132
+
+Leveraging Experience Telemetry: Use Cases
+https://ieeexplore.ieee.org/document/9942501
+
+
+
+Im a contributor at GreenDigital Action, in several pillars:
+•	Green Standards pillar
+•	ICT GHG emissions pillar
+•	Green Computing Pillar
+ 
+I´ve also contribute with other SDO’s:
+NGNM
+Recently working as a contributor in the Green Future Networks(GFN) Metering paper.
+
+With a bigger approach than just Sustainability and Energy Efficiency, I have participated representing Cisco in the first workshop for the ETSI Technical Committee on Data Solutions (TC DATA) to encourage the adoption of new standards in line with the European Data Governance Act:
+
+https://www.etsi.org/newsroom/press-releases/2496-etsi-launches-a-technical-committee-on-data-solutions-tc-data-to-encourage-the-adoption-of-new-standards-in-line-with-the-european-data-governance-act
+
+**Patents**
+
+Publication number: 20240028499
+INTENT-BASED CHAOS LEVEL CREATION TO VARIABLY TEST ENVIRONMENTS
+Filed: July 22, 2022
+Publication date: January 25, 2024
+
+Publication number: 20240154826
+Feature Sharing And Handoff For Power Optimization
+Filed: June 29, 2023
+Publication date: May 9, 2024
+
+**Patent number: 12242370**
+Intent-based chaos level creation to variably test environments
+Filed: July 22, 2022
+Date of Patent: March 4, 2025
+
+Publication number: 20250126552
+FEATURE LEVEL POWER CALIBRATION
+Filed: May 14, 2024
+Publication date: April 17, 2025
+
+Publication number: 20240155500
+Dynamic Feature Shedding in Sensor Enabled Networks
+Filed: June 29, 2023
+Publication date: May 9, 2024
+
+Publication number: 20230419070
+OFFLINE VERIFICATION OF EQUIPMENT ROAMING AND TAMPERING
+Filed: June 27, 2022
+Publication date: December 28, 2023
+
+Publication number: 20250007817
+REGULATING DEVICES BASED ON DATA SOVEREIGNTY AND SUSTAINABILITY
+Filed: June 29, 2023
+Publication date: January 2, 2025
+
+Publication number: 20230239211
+ENVIRONMENTAL SUSTAINABILITY OF NETWORKING DEVICES AND SYSTEMS
+Filed: January 25, 2022
+Publication date: July 27, 2023
+
+**Patent number: 11818006**
+Environmental sustainability of networking devices and systems
+Filed: January 25, 2022
+Date of Patent: November 14, 2023
+
+Publication number: 20230299988
+ADAPTIVE BACKGROUND IN VIDEO CONFERENCING
+Filed: March 21, 2022
+Publication date: September 21, 2023
+
+Publication number: 20250004520
+POWER DISTRIBUTION AND COMMUNICATION INFRASTRUCTURE FOR CONNECTED APPLIANCES
+Filed: June 30, 2023
+Publication date: January 2, 2025
+
+Publication number: 20240356332
+SYSTEMS AND METHODS FOR BALANCING ENERGY USAGE
+Filed: July 27, 2023
+Publication date: October 24, 2024
+
+ADAPTIVE BACKGROUND IN VIDEO CONFERENCING
+Publication number: 20240007316
+Filed: September 15, 2023
+Publication date: January 4, 2024
+
+**Patent number: 11824670**
+Adaptive background in video conferencing
+Filed: March 21, 2022
+Date of Patent: November 21, 2023
+
+**Patent number: 12224874**
+Adaptive background in video conferencing
+Filed: September 15, 2023
+Date of Patent: February 11, 2025
+
+**Cisco Blogs and other publications**
+https://blogs.cisco.com/author/mpalmero
+https://news-blogs.cisco.com/emea/author/mpalmero/
+https://blogs.cisco.com/innovation/sustainability-data-are-we-comparing-apples-and-oranges
+https://blogs.cisco.com/innovation/see-measure-reduce-building-a-sustainable-practice-with-cisco-customer-experience-cx
+https://news-blogs.cisco.com/emea/2024/07/09/the-girls-are-good-and-ready-to-rock-in-the-tech-field/
+https://news-blogs.cisco.com/emea/2023/12/14/young-girls-are-taking-the-gender-gap-down-to-build-the-inclusive-tech-world-of-tomorrow/
 
 **Languages**
 
